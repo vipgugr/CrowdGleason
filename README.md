@@ -1,5 +1,9 @@
 # CrowdGleason
 
+![Approach](Dataset.pdf)
+This repo contains associated information with the publication "The CrowdGleason dataset: Learning the Gleason grade from crowds and experts". We include the related citation, the dataset access at Zenodo, and the code to reproduce the experiments.
+
+
 ## Citation 
 
 ```
@@ -16,8 +20,18 @@
 
 ## Data
 
-Data publicly available at: https://zenodo.org/records/14178894
+Dataset publicly available at: https://zenodo.org/records/14178894
 
 ## Code
 
-Available soon.
+The code is included in the folder code/
+
+### Feature extraction
+
+- code/feature_extraction/ contains the code to train a CNN Prostate clasiffier in SICAP and then extract features from crowdgleason: 1. run train_feat_extractor.py to train the classifier; 2. run predict_features.py to extract features from SICAP and CrowdGleason.
+
+- code/classification/
+
+- code/ablation_study/
+
+
