@@ -28,7 +28,7 @@ The code is included in the folder `code/`, we use GPflow 1 for the crowdsourcin
 
 For feature extraction use `pip install torch`.
 
-For classification and ablation study use requeriments.txt.
+For classification and ablation study use `requeriments.txt`.
 
 
 ### Feature Extraction
