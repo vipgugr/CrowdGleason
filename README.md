@@ -1,7 +1,8 @@
 # CrowdGleason
 
 ![Approach](fig.png)
-This repo contains associated information with the publication "The CrowdGleason dataset: Learning the Gleason grade from crowds and experts". We include the related citation, the dataset access at Zenodo, and the code to reproduce the experiments.
+
+This repo contains associated information with the publication *"The CrowdGleason dataset: Learning the Gleason grade from crowds and experts"*. We include the related citation, the dataset access at Zenodo, and the code to reproduce the experiments.
 
 
 ## Citation 
