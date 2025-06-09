@@ -2,20 +2,23 @@
 
 ![Approach](fig.png)
 
-This repo contains associated information with the publication *"The CrowdGleason dataset: Learning the Gleason grade from crowds and experts"*. We include the related citation, the dataset access at Zenodo, and the code to reproduce the experiments.
+This repo contains associated information with the publication *"The CrowdGleason dataset: Learning the Gleason grade from crowds and experts"* (https://doi.org/10.1016/j.cmpb.2024.108472?). We include the related citation, the dataset access at Zenodo, and the code to reproduce the experiments.
 
 
 ## Citation 
 
 ```
-@article{lopez2024crowdgleason,
-  title={The CrowdGleason dataset: Learning the Gleason grade from crowds and experts},
-  author={L{\'o}pez-P{\'e}rez, Miguel and Morquecho, Alba and Schmidt, Arne and P{\'e}rez-Bueno, Fernando and Mart{\'\i}n-Castro, Aurelio and Mateos, Javier and Molina, Rafael},
-  journal={Computer Methods and Programs in Biomedicine},
-  volume={257},
-  pages={108472},
-  year={2024},
-  publisher={Elsevier}
+@article{LOPEZPEREZ2024108472,
+title = {The CrowdGleason dataset: Learning the Gleason grade from crowds and experts},
+journal = {Computer Methods and Programs in Biomedicine},
+volume = {257},
+pages = {108472},
+year = {2024},
+issn = {0169-2607},
+doi = {https://doi.org/10.1016/j.cmpb.2024.108472},
+url = {https://www.sciencedirect.com/science/article/pii/S0169260724004656},
+author = {Miguel López-Pérez and Alba Morquecho and Arne Schmidt and Fernando Pérez-Bueno and Aurelio Martín-Castro and Javier Mateos and Rafael Molina},
+keywords = {Computational pathology, Crowdsourcing, Prostate cancer, Gleason grade, Gaussian processes, Medical image analysis},
 }
 ```
 
